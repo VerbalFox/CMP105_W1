@@ -1,3 +1,5 @@
 # CMP105_W1
 Lab1 window
-Meow, woof woof, testing.
+
+Name: Jack Ridgwell-Smith
+Student Number: 1802144
